@@ -23,7 +23,7 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 767px) {
   .app__video {
     width: fit-content;
   }
