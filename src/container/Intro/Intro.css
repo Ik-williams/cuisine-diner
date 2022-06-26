@@ -22,3 +22,9 @@
   border: 1px solid var(--color-ubuntu);
   cursor: pointer;
 }
+
+@media screen and (max-width: 450px) {
+  .app__video {
+    width: fit-content;
+  }
+}
